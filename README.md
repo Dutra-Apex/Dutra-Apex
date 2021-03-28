@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Gabriel Dutra
-#### I'm a Sophomore at Drew University Double majoring in Computer Science and Physics.
+#### I'm a Sophomore at Drew University pursuing a double major in Computer Science and Physics.
 
 Skills: 
 

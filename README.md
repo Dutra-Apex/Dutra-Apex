@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Gabriel Dutra
 #### I'm a Sophomore at Drew University Double majoring in Computer Science and Physics.
 
-Skills: Python/ Java/ JavaScript
+Skills: 
+
+[<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python']
+
+Python/ Java/ JavaScript
 
 - 🔭 At the moment, I'm working as a part-time CS and Physics tutor at my University
 - 🌱 I’m currently learning about Recurrent Neural Networks in Python

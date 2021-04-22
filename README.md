@@ -5,6 +5,7 @@ Skills:
 
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python'> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'>
 <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='Java'>
+<img src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' alt='MSS'>
 
 - 🔭 At the moment, I'm working as a part-time CS and Physics tutor at my University
 - 🌱 I’m currently learning about Recurrent Neural Networks in Python

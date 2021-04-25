@@ -11,7 +11,8 @@ Skills:
 - 🌱 I’m currently learning about Recurrent Neural Networks in Python
 - 👯 I’m looking to collaborate on any cool project! 
 - 💬 Ask me about Python, Natural Language Processing or Computational Physics.
-- 📫 Reach me through LinkedIn:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabrieldutra01/)  
+- 📫 Reach me through LinkedIn:  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabrieldutra01/?locale=en_US)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dutra-Apex&layout=compact)](https://github.com/Dutra-Apex/github-readme-stats)

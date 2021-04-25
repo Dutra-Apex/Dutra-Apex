@@ -16,5 +16,5 @@ Skills:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabrieldutra01/?locale=en_US)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DutraApex&layout=compact)](https://github.com/Dutra-Apex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dutra-Apex&layout=compact)](https://github.com/Dutra-Apex/github-readme-stats)
 

@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Gabriel Dutra
-#### I'm a Junior at Drew University pursuing a major in Computer Science, with minors in Physics and Mathematics.
+#### I'm a Junior at Drew University pursuing a double major in Computer Science and Statistics, with minors in Physics and Mathematics.
 
 Skills: 
 

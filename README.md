@@ -11,7 +11,7 @@ Skills:
 
 - 🔭 At the moment, I'm working as a AI Software Engineer Intern at Transcoder
 - 🌱 I’m currently learning about CNNs and RNNs
-- 👯 I’m looking to collaborate on any cool project related to AI or ML.
+- 👯 I’m looking to collaborate on any cool project related to AI.
 - 💬 Ask me about Python, Machine Learning or Computational Physics.
 - 📫 Reach me through LinkedIn:  
 

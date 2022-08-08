@@ -7,6 +7,7 @@ Skills:
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='Java'>
 <img src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' alt='MSS'>
+<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
 
 - 🔭 At the moment, I'm working as a AI Software Engineer Intern at Transcoder
 - 🌱 I’m currently learning about CNNs and RNNs

@@ -9,8 +9,8 @@ Skills:
 <img src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' alt='MSS'>
 <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
 
-- 🔭 At the moment, I'm working as a AI Software Engineer Intern at Transcoder
-- 🌱 I’m currently learning about CNNs and RNNs
+- 🔭 I'm currently working as a AI Software Engineer Intern at TechJoy Software.
+- 🌱 I’m currently learning about RNNs, Computer Vision, and the financial market.
 - 👯 I’m looking to collaborate on any cool project related to AI.
 - 💬 Ask me about Python, Machine Learning or Computational Physics.
 - 📫 Reach me through LinkedIn:  

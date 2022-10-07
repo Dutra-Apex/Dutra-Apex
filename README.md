@@ -10,8 +10,7 @@ Skills:
 <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
 
 - 🔭 I'm currently working as a AI Software Engineer Intern at TechJoy Software.
-- 🌱 I’m currently learning about RNNs, Computer Vision, and the financial market.
-- 👯 I’m looking to collaborate on any cool project related to AI.
+- 🌱 I’m currently learning about RNNs, Computer Vision, and LSTMs.
 - 💬 Ask me about Python, Machine Learning or Computational Physics.
 - 📫 Reach me through LinkedIn:  
 

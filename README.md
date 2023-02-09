@@ -9,7 +9,7 @@ Skills:
 <img src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' alt='MSS'>
 <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
 
-- 🔭 I work as an AI Software Engineer Intern at Canfield Scientific.
+- 🔭 I work in the Research and Development team at Canfield Scientific.
 - 🌱 I’m currently learning about Cloud Computing and AWS.
 - 💬 Ask me about Python, Machine Learning or Computational Physics.
 - 📫 Reach me through LinkedIn:  

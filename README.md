@@ -16,4 +16,4 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabrieldutra01/?locale=en_US)  
 
-
+<a href="http://www.github.com/Dutra-Apex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dutra-Apex&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

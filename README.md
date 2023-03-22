@@ -24,6 +24,9 @@
 
 ![](https://raw.githubusercontent.com/Dutra-Apex/Dutra-Apex/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  Computer Vision, Generative Models, Timeseries forecasting
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
@@ -31,6 +34,4 @@
 
 
 
-<div align="center">
-  Computer Vision, Generative Models, Timeseries forecasting
-</div>
+

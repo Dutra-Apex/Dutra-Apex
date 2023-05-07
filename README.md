@@ -25,7 +25,6 @@
 ![](https://raw.githubusercontent.com/Dutra-Apex/Dutra-Apex/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabrieldutra01/?locale=en_US)  
   Computer Vision - Generative Models - Timeseries forecasting
 </div>
 

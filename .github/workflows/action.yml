@@ -5,7 +5,7 @@ name: generate animation
 on:
   # run automatically every 18 hours
   schedule:
-    - cron: "0 */18 * * *" 
+    - cron: "0 */200 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
